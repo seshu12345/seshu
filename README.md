@@ -1,5 +1,8 @@
-# seshu
-
-#seshu
-##seshu
-###seshu
+#this is an <h1> tag
+  ##this is an <h2> tag
+  ###this is an <h3> tag
+  #*this text will be italic*
+  #-this will also be italic-
+  #**this text will be bold**
+  #--this will also be bold--
+  #*you **can** combine them*
