@@ -12,4 +12,4 @@
   # *item 2b
   
   
-  ![rohit](https://cdn.zeebiz.com/sites/default/files/2020/11/27/134542-rhtsham.jpg)
+  ![rohit](https://static.toiimg.com/photo/msid-79165603/79165603.jpg)
