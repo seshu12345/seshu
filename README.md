@@ -12,4 +12,4 @@
   # *item 2b
   
   
-  ![rohit](https://static.toiimg.com/photo/msid-79165603/79165603.jpg)
+  ![rohit](https://resources.platform.bcci.tv/bcci/photo/2019/12/18/f8838142-87b1-4db1-895d-92ecf54c4dcd/VRP4805.jpg)
