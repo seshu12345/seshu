@@ -6,3 +6,7 @@
   #**this text will be bold**
   #--this will also be bold--
   #*you **can** combine them*
+  #*item 1
+  #*item 2
+  # *ityem 2a
+  # *item 2b
